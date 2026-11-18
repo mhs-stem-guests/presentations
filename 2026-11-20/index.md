@@ -25,7 +25,7 @@ This is an educational blog for students at James Martin High School to learn ab
 
 
 # Sign In Sheet
-To record your name on the sign in sheet, sign up on Github, learn how to use git and Github, then send me a pull request! I will monitor this account for the rest of 2025 and accept your pull requests for the README.md file. You can find the repository on Github at [https://github.com/stemx2025/stemx2025.github.io](https://github.com/stemx2025/stemx2025.github.io)
+To record your name on the sign in sheet, sign up on Github, learn how to use git and Github, then send me a pull request! I will monitor this account for the rest of 2025 and accept your pull requests for the README.md file. You can find the repository on Github at [https://github.com/mhs-stem-guests/presentations](https://github.com/mhs-stem-guests/presentations).
 
 ```
 Faculty Sponsors:
@@ -33,13 +33,13 @@ Mrs. Meribah Treadway
 Mr. Joshua Ogg
 
 Classroom Host:
-???
+To be added
 
 Guest Speaker :
 Mr. Michael Pham
 
 Student Attendees :
-???
+To be added
 
 ```
 
@@ -103,10 +103,13 @@ Student Attendees :
 
 - Understand programming paradigms. Do schools still teach Object Oriented Programming?
 
-- Avoid accidental success.
-  - The best junior coders are deliberate.
+- Avoid accidental success. This is what separates an amateur coder from a professional.
+  - Professionals are deliberate. That is, they do not compile code "hoping it works".
+    - Granted, this will sometimes come up, because nobody else in the room can figure out a problem either! Such occurrences are rare.
   - Take the time to understand exactly what you need to change and why.
   - Don't blindly change things to see if it works, without a hypothesis.
+
+- Every IT career path values individuals who can "figure it out." Take initiative, do your research, and be open to other viewpoints.
 
 ## Keep learning
 
@@ -117,7 +120,7 @@ Student Attendees :
 
 - Keep a sharp eye on quality, and learn to have [good taste](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish).
 
-## Understand other programming languages, their paradigms, scripting languages, markup languages, etc.
+## Importance of hard skills (Understand other programming languages, their paradigms, scripting languages, markup languages, etc.)
 
 - It's 2025. The paradigm of OOP has faded and is considered old news.
   - But it was a big deal for a reason!
@@ -131,14 +134,18 @@ Student Attendees :
 
 - Learn how to read and write shell, bash, or Powershell scripts.
 
-## Importance of teamwork and soft skills
+- Understand that the core part of software work and engineering work in general is about not having a right answer, but trading one system trait for another.
+
+## Importance of soft skills and teamwork (and really meaning it)
 
 - As your mastery grows, you will eventually no longer be a junior coder led by another team member. You'll be mentoring the next junior hire!
   - This means you cannot neglect leadership skills or presentation skills. This goes double for those not seeking a college degree.
-  - These kinds of skills can take years to cultivate.
-  - You will likely be promoted up before that happens, so prepare for this early.
+  - It is never too early to learn soft skills. Leadership practiced at 16 years old will be valuable experience for 10 or 20 years down the line.
+  - Leadership can manifest in many forms and is unique to every individual.
+  - Do not underestimate the value of local leadership. Even as the most junior member of a team, you can make decisions that help the group as a whole.
+  - These kinds of skills can take years to cultivate. Be patient and look for opportunities, and take the chance when you see it.
   - In college, this means finding like-minded students to form a study group with.
-- I mentioned that writing documentation is fundamental. Note that it is an entire career choice for someone who is good at both writing clearly and technical work. Though sometimes you just need the first, depending on the organization.
+- I mentioned that writing documentation is fundamental. Note that Technical Writing is itself an entire career path, but moderate skill at technical writing is helpful for everyone in STEM.
 
 ## IT career paths
 
@@ -150,18 +157,29 @@ Student Attendees :
 
 - Don't be afraid to talk shop.
 
-- Don't be afraid of failure. Be bold.
+- Don't be afraid of failure. Be bold. Failure is a part of learning.
 
 - Go into a job fair in your first or second year of college, get embarassed about your 5-minute booth interview going poorly, then take notes for next semester's job fair. Then go again next semester, and the next.
 
 ## The Elephant in the Room: AI
 
 - But did you mean...
+  - Inference?
   - Large Language Models?
   - Small Language Models?
+  - Decision models?
+  - Pre-training?
+  - Post-training?
   - Machine Learning? (Now considered "old school" in less than a decade!)
   - Model Context Protocol?
-  - AI security?
+  - AI security? (preferably white hat)
+
+- In my previous talk 1 year ago, I clarified that AI research and AI work has many forms. Today, there are even more subjects to explore.
+
+- What you see advertised as "AI" in media these past few years is carefully manufactured marketing. If you understand mathematical concepts like vectors, vector space, and multilinear algebra, you have just enough math background to have a layman's understanding of what the industry refers to as AI models.
+
+- If you are interested in AI and machine learning, know that competition will be fierce. But the neat thing is that if you really want it, chances are you will work hard enough to surpass peers who are smarter than you.
+
 
 - The landmark [Attention Is All You Need paper](https://arxiv.org/abs/1706.03762) that led to the explosion LLMs over the past 2 years was published in 2017.
 
@@ -179,8 +197,8 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
   - Old equipment costs a lot less on ebay, but the BIOS and documentation are sometimes hard to use on them (I use old Dell thin clients for my home lab and an old gaming computer). Learn how to setup network equipment like an unmanaged switch.
   - Buy a website domain and learn to fiddle with Linux to host video game server software for your friends.
     - This one's a great way to learn because now you have legitimate users, and a million bots around the world probing your server for vulneratbilies to break in.
-    - Pick a good domain registrar like Namecheap, Cloudflare, etc.
-  - Learning via a homelab isn't free. Plan to budget $200 in startup costs and $50 a month to add tools, upgrades, and new equipment. Keep an eye out for services that provide free tiers or lifetime licenses that you will actually use. Don't forget about your internet data usage and your power utility usage. Read the label on those power cables, though in most cases they rearely hit even half their rated capacity.
+    - Pick a reasonable domain registrar like. Personally, I use Cloudflare.
+  - Learning via a homelab isn't free. Plan to budget $200 in startup costs and $50 a month to add tools, upgrades, and new equipment. Keep an eye out for services that provide free tiers or lifetime licenses that you will actually use. Don't forget about your internet data usage and your power utility usage. Understanding your hardware, software, and service expenditures is a fundamental part of administering a server.
 
 - [w3schools Git tutorial](https://www.w3schools.com/git/default.asp)
 
@@ -195,3 +213,14 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
 - [Pragmatic Progammer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer): Great book. I suggest reading this right before graduating college. Worth having on your shelf to lend to mentees.
 
 - [O'reilly Book recommendations](https://learning.oreilly.com/playlists/866d2bbe-6588-4f0c-8593-7b9fb3ece7b0/): For advanced readers. This is a recommended reading list that I send to my professional colleagues. Pragmatic Programmer is only the first book in the list.
+
+## Rants and Fun Stories
+
+- The internet is an impressively vast space where you will come across all sorts of odd engineering stories. As you gather more skills, you will certainly have some stories to tell about your time in computing. Here are a few that I found interesting:
+  - [A college student whose wifi only worked when it rains.](predr.ag/blog/wifi-only-works-when-its-raining/)
+  - [Web services like Spotify and Google Docs have hidden social media networks.](https://www.thisamericanlife.org/897/transcript) (Used by 10-13 year old kids, because their parents banned them from social media.)
+  - [Emails can't be sent more than 500 miles.](https://www.ibiblio.org/harris/500milemail.html)
+  - [An accidental video game software bug used as real epidemeology research.](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
+  - [The backup system for Toy Story 2 was discovered to be faulty after someone deleted the entire film.](https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good)
+  - [For a short time, the hit song Gangnam Style on Youtube had fewer than negative 2 billion views (this is not a typo).](https://arstechnica.com/information-technology/2014/12/gangnam-style-overflows-int_max-forces-youtube-to-go-64-bit/)
+  - Ask me about how (and why) I diagnosed and fixed a broken desktop by poking a screwdriver at the main board (you probably should not do this).
