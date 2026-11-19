@@ -73,7 +73,7 @@ To be added
 
 - On this subject, I cannot provide more accurate information than the [Bureau of Labor Statistics' Occupational Outlook Handbook](https://www.bls.gov/ooh/).
 
-- In software development roles, [the projected job growth from 2025 to 2035 is 174k jobs, or about 9%](https://www.bls.gov/ooh/Computer-and-Information-Technology/Software-developers.htm). This is still the [fastest growing sector related to STEM, by-volume](https://www.bls.gov/ooh/most-new-jobs.htm). This about 90k fewer than the 2024 to 2034 projection from when I gave this talk last year. The next high-growth high-education job sectors are in medicine, management, and data science.
+- In software development roles, [the projected job growth from 2025 to 2035 is 174k jobs, or about 9%](https://www.bls.gov/ooh/Computer-and-Information-Technology/Software-developers.htm). This is still the [fastest growing sector related to STEM, by-volume](https://www.bls.gov/ooh/most-new-jobs.htm). This about 90k fewer than the 2024 to 2034 projection from last year. The next high-growth high-education job sectors are in medicine, management, and data science.
 
 # Everything Else
 
@@ -105,7 +105,6 @@ To be added
 
 - Avoid accidental success. This is what separates an amateur coder from a professional.
   - Professionals are deliberate. That is, they do not compile code "hoping it works".
-    - Granted, this will sometimes come up, because nobody else in the room can figure out a problem either! Such occurrences are rare.
   - Take the time to understand exactly what you need to change and why.
   - Don't blindly change things to see if it works, without a hypothesis.
 
@@ -122,7 +121,9 @@ To be added
 
 ## Importance of hard skills (Understand other programming languages, their paradigms, scripting languages, markup languages, etc.)
 
-- It's 2025. The paradigm of OOP has faded and is considered old news.
+- Reading comprehension and the ability to read an error trace is a fundamental part of the job (i.e. compilation errors and runtime errors).
+
+- The paradigm of OOP has faded and is considered old news, but is still taught as a part of CS curriculum.
   - But it was a big deal for a reason!
   - Understand how and why OOP came about, the problems it tried to solve, and the new problems it introduced.
 
@@ -132,7 +133,7 @@ To be added
 - Learn how to interact with a terminal. In Windows, that's the command line or Powershell.
   - Most modern tech infrastructure is on some form of Unix or Linux.
 
-- Learn how to read and write shell, bash, or Powershell scripts.
+- Learn how to read and write bash or Powershell scripts.
 
 - Understand that the core part of software work and engineering work in general is about not having a right answer, but trading one system trait for another.
 
@@ -223,11 +224,10 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
 
 ## Rants and Fun Stories
 
-- The internet is an impressively vast space where you will come across all sorts of odd engineering stories. As you gather more skills, you will certainly have some stories to tell about your time in computing. Here are a few that I found interesting:
+- The internet is an impressively vast space where you will come across all sorts of odd software stories. As you gather more skills, you will certainly have some stories to tell about your time in computing.
   - [A college student whose wifi only worked when it rains.](predr.ag/blog/wifi-only-works-when-its-raining/)
   - [Web services like Spotify and Google Docs have hidden social media networks.](https://www.thisamericanlife.org/897/transcript) (Used by 10-13 year old kids, because their parents banned them from social media.)
-  - [Emails cannot be sent more than 500 miles.](https://www.ibiblio.org/harris/500milemail.html)
-  - [An accidental video game software bug used as scientific epidemeology research.](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
+  - [Bug where emails could not be sent more than 500 miles.](https://www.ibiblio.org/harris/500milemail.html)
+  - [An accidental video game software bug was used as a model for scientific epidemeology research.](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
   - [The backup system for Toy Story 2 was discovered to be faulty after someone deleted the entire film.](https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good)
   - [For a short time, the hit song Gangnam Style on Youtube had fewer than negative 2 billion views.](https://arstechnica.com/information-technology/2014/12/gangnam-style-overflows-int_max-forces-youtube-to-go-64-bit/) (This is not a typo.)
-  - Ask me about how (and why) I diagnosed and fixed a broken desktop by poking a screwdriver at the main board (you probably should not do this).
