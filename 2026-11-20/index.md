@@ -73,7 +73,7 @@ To be added
 
 - On this subject, I cannot provide more accurate information than the [Bureau of Labor Statistics' Occupational Outlook Handbook](https://www.bls.gov/ooh/).
 
-- In software development roles, [the projected job growth from 2024 to 2034 is 267k jobs, or 15%](https://www.bls.gov/ooh/Computer-and-Information-Technology/Software-developers.htm). This is the [fastest growing sector related to STEM, by-volume](https://www.bls.gov/ooh/most-new-jobs.htm). For comparison, the next highest by-volume are 166k jobs for Registered Nurses (5%) and 82k jobs for Data Scientists (34%).
+- In software development roles, [the projected job growth from 2025 to 2035 is 170k jobs, or about 9%](https://www.bls.gov/ooh/Computer-and-Information-Technology/Software-developers.htm). This is still the [fastest growing sector related to STEM, by-volume](https://www.bls.gov/ooh/most-new-jobs.htm). This about 90k down from the 2024 to 2034 projectfrion from last year.
 
 # Everything Else
 
@@ -118,7 +118,7 @@ To be added
   - Samsung and Blackberry were still making slider phones in 2010.
   - Windows Phone released in 2010, an attempt by Microsoft to overtake Apple and Google in the smartphone market (they did not succeed). They still managed to salvage the Windows Phone UI in Windows 8 and Windows 8.1 before giving up on that UI style.
 
-- Keep a sharp eye on quality, and learn to have [good taste](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish).
+- Have a sharp eye for quality and learn to have [good taste](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish).
 
 ## Importance of hard skills (Understand other programming languages, their paradigms, scripting languages, markup languages, etc.)
 
@@ -163,6 +163,8 @@ To be added
 
 ## The Elephant in the Room: AI
 
+- I am an inference hobbyist, but I keep up with the tech industry well enough to answer any questions you have about AI services and where we are headed.
+
 - But did you mean...
   - Inference?
   - Large Language Models?
@@ -170,6 +172,8 @@ To be added
   - Decision models?
   - Pre-training?
   - Post-training?
+  - "AI agents?"
+  - "AI harnesses"?
   - Machine Learning? (Now considered "old school" in less than a decade!)
   - Model Context Protocol?
   - AI security? (preferably white hat)
@@ -178,10 +182,13 @@ To be added
 
 - What you see advertised as "AI" in media these past few years is carefully manufactured marketing. If you understand mathematical concepts like vectors, vector space, and multilinear algebra, you have just enough math background to have a layman's understanding of what the industry refers to as AI models.
 
-- If you are interested in AI and machine learning, know that competition will be fierce. But the neat thing is that if you really want it, chances are you will work hard enough to surpass peers who are smarter than you.
+- If you are interested in AI and machine learning, know that competition will be fierce.
 
+- Consider taking philosophy or ethics courses if working in AI. You will find that many people are dissatisfied with how profitable it is to sell stolen Intellectual Property in a specialized mathematical format.
 
-- The landmark [Attention Is All You Need paper](https://arxiv.org/abs/1706.03762) that led to the explosion LLMs over the past 2 years was published in 2017.
+- The landmark paper, [Attention Is All You Need,](https://arxiv.org/abs/1706.03762) led to the explosion LLMs over the past 2 years was published in 2017.
+
+- The [Bitter Lesson essay](https://en.wikipedia.org/wiki/Bitter_lesson) asserts that bigger generalist models are more effective than small, specially trained models. There are hobbyist communities that defy this, however, due to monetary constraints.
 
 - Leading AI experts like [Chip Huyen](https://huyenchip.com/2021/09/13/data-science-infrastructure.html) notes that software developers and data scientists are still dependent on other IT specialists.
 
@@ -219,8 +226,8 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
 - The internet is an impressively vast space where you will come across all sorts of odd engineering stories. As you gather more skills, you will certainly have some stories to tell about your time in computing. Here are a few that I found interesting:
   - [A college student whose wifi only worked when it rains.](predr.ag/blog/wifi-only-works-when-its-raining/)
   - [Web services like Spotify and Google Docs have hidden social media networks.](https://www.thisamericanlife.org/897/transcript) (Used by 10-13 year old kids, because their parents banned them from social media.)
-  - [Emails can't be sent more than 500 miles.](https://www.ibiblio.org/harris/500milemail.html)
-  - [An accidental video game software bug used as real epidemeology research.](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
+  - [Emails cannot be sent more than 500 miles.](https://www.ibiblio.org/harris/500milemail.html)
+  - [An accidental video game software bug used as scientific epidemeology research.](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
   - [The backup system for Toy Story 2 was discovered to be faulty after someone deleted the entire film.](https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good)
-  - [For a short time, the hit song Gangnam Style on Youtube had fewer than negative 2 billion views (this is not a typo).](https://arstechnica.com/information-technology/2014/12/gangnam-style-overflows-int_max-forces-youtube-to-go-64-bit/)
+  - [For a short time, the hit song Gangnam Style on Youtube had fewer than negative 2 billion views.](https://arstechnica.com/information-technology/2014/12/gangnam-style-overflows-int_max-forces-youtube-to-go-64-bit/) (This is not a typo.)
   - Ask me about how (and why) I diagnosed and fixed a broken desktop by poking a screwdriver at the main board (you probably should not do this).
