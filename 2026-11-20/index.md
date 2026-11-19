@@ -73,7 +73,7 @@ To be added
 
 - On this subject, I cannot provide more accurate information than the [Bureau of Labor Statistics' Occupational Outlook Handbook](https://www.bls.gov/ooh/).
 
-- In software development roles, [the projected job growth from 2025 to 2035 is 170k jobs, or about 9%](https://www.bls.gov/ooh/Computer-and-Information-Technology/Software-developers.htm). This is still the [fastest growing sector related to STEM, by-volume](https://www.bls.gov/ooh/most-new-jobs.htm). This about 90k down from the 2024 to 2034 projectfrion from last year.
+- In software development roles, [the projected job growth from 2025 to 2035 is 174k jobs, or about 9%](https://www.bls.gov/ooh/Computer-and-Information-Technology/Software-developers.htm). This is still the [fastest growing sector related to STEM, by-volume](https://www.bls.gov/ooh/most-new-jobs.htm). This about 90k down from the 2024 to 2034 projection of 267k from last year.
 
 # Everything Else
 
