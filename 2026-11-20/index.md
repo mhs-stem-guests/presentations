@@ -14,13 +14,13 @@ This is an educational blog for students at James Martin High School to learn ab
   - [How to break into the industry](#how-to-break-into-the-industry)
   - [Practice your fundamentals](#practice-your-fundamentals)
   - [Keep learning](#keep-learning)
-  - [Understand other programming languages, their paradigms, scripting languages, markup languages, etc.](#understand-other-programming-languages-their-paradigms-scripting-languages-markup-languages-etc)
-  - [Importance of teamwork and soft skills](#importance-of-teamwork-and-soft-skills)
+  - [Importance of hard skills and design work](#importance-of-hard-skills-and-design-work)
+  - [Importance of soft skills and teamwork](#importance-of-soft-skills-and-teamwork)
   - [IT career paths](#it-career-paths)
   - [How to Impress College Recruiters](#how-to-impress-college-recruiters)
-  - [The Elephant in the Room: AI](#the-elephant-in-the-room-ai)
-- [Tips, Links, and Resources](#tips-links-and-resources)
-
+  [The Elephant in the Room: AI](#the-elephant-in-the-room-ai)
+  [Tips, Links, and Resources](#tips-links-and-resources)
+  [Rants and Fun Stories](#rants-and-fun-stories)
 
 # Sign In Sheet
 To record your name on the sign in sheet, sign up on Github, learn how to use git and Github, then send me a pull request! I will monitor this account for the rest of 2026 and accept your pull requests for the README.md file. You can find the repository on Github at [https://github.com/mhs-stem-guests/presentations](https://github.com/mhs-stem-guests/presentations).
@@ -117,7 +117,9 @@ To be added
 
 - Have a sharp eye for quality and learn to have [good taste](https://www.goodreads.com/quotes/309485-nobody-tells-this-to-people-who-are-beginners-i-wish).
 
-## Importance of hard skills (Understand other programming languages, their paradigms, scripting languages, markup languages, etc.)
+## Importance of hard skills and design work
+
+- Take the time to understand other programming languages, their paradigms, scripting languages, markup languages, etc. It is rare to only use a few languages for your entire career.
 
 - Reading comprehension and the ability to read an error trace is a fundamental part of the job (i.e. compilation errors and runtime errors).
 
@@ -135,7 +137,7 @@ To be added
 
 - Understand that the core part of software work and engineering work in general is about not having a right answer, but trading one system trait for another.
 
-## Importance of soft skills and teamwork (and really meaning it)
+## Importance of soft skills and teamwork
 
 - As your mastery grows, you will eventually no longer be a junior coder led by another team member. You'll be mentoring the next junior hire!
   - This means you cannot neglect leadership skills or presentation skills. This goes double for those not seeking a college degree.
@@ -160,7 +162,7 @@ To be added
 
 - Go into a job fair in your first or second year of college, get embarassed about your 5-minute booth interview going poorly, then take notes for next semester's job fair. Then go again next semester, and the next.
 
-## The Elephant in the Room: AI
+# The Elephant in the Room: AI
 
 - I am an inference hobbyist, but I keep up with the tech industry well enough to answer any questions you have about AI services and where we are headed.
 
@@ -193,7 +195,7 @@ To be added
 
 - [Software ate the world](https://a16z.com/why-software-is-eating-the-world/), and it's not clear yet if AI will too.
 
-## Tips, Links, and Resources
+# Tips, Links, and Resources
 Tired of hearing about coding and want to get going? Nothing is stopping you from looking it up on Google. Though personally, I recommend w3schools.
 
 - Try looking for tutorials on WSL if you use Windows.
@@ -220,7 +222,7 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
 
 - [O'reilly Book recommendations](https://learning.oreilly.com/playlists/866d2bbe-6588-4f0c-8593-7b9fb3ece7b0/): For advanced readers. This is a recommended reading list that I send to my professional colleagues. Pragmatic Programmer is only the first book in the list.
 
-## Rants and Fun Stories
+# Rants and Fun Stories
 
 - The internet is an impressively vast space where you will come across all sorts of odd software stories. As you gather more skills, you will certainly have some stories to tell about your time in computing. There are always artists, tinkerers, writers, and citizen scientists sharing their stories and discoveries on personal blogs, if you know where to look.
   - [A college student whose wifi only worked when it rains.](predr.ag/blog/wifi-only-works-when-its-raining/)
