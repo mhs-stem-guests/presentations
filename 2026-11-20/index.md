@@ -222,10 +222,11 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
 
 ## Rants and Fun Stories
 
-- The internet is an impressively vast space where you will come across all sorts of odd software stories. As you gather more skills, you will certainly have some stories to tell about your time in computing.
+- The internet is an impressively vast space where you will come across all sorts of odd software stories. As you gather more skills, you will certainly have some stories to tell about your time in computing. There are always artists, tinkerers, writers, and citizen scientists sharing their stories and discoveries on personal blogs, if you know where to look.
   - [A college student whose wifi only worked when it rains.](predr.ag/blog/wifi-only-works-when-its-raining/)
   - [Web services like Spotify and Google Docs have hidden social media networks.](https://www.thisamericanlife.org/897/transcript) (Used by 10-13 year old kids, because their parents banned them from social media.)
   - [Bug where emails could not be sent more than 500 miles.](https://www.ibiblio.org/harris/500milemail.html)
   - [An accidental video game software bug was used as a model for scientific epidemeology research.](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
   - [The backup system for Toy Story 2 was discovered to be faulty after someone deleted the entire film.](https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good)
   - [For a short time, the hit song Gangnam Style on Youtube had fewer than negative 2 billion views.](https://arstechnica.com/information-technology/2014/12/gangnam-style-overflows-int_max-forces-youtube-to-go-64-bit/) (This is not a typo.)
+  - [You can use digital signal processing techniques to make a cheap laptop speaker sound like an iPhone quality speaker.](https://news.ycombinator.com/item?id=49479924)
