@@ -2,9 +2,7 @@
 
 `Author: Michael Pham` `November 20 2026`
 
-This is an educational blog for students at James Martin High School to learn about the software industry during the STEMX 2025 event. Instead of a slide deck presentation, this is an outline with the complete contents of our talk on one page.
-
-![Scan to visit site](qrcode_stemx2025.github.io.png)
+This is an educational blog for students at James Martin High School to learn about the software industry during the 2026 MHS STEM conference event. Instead of a slide deck presentation, this is an outline with the complete contents of the talk on one page.
 
 ## Table of Contents
 - [Sign In Sheet](#sign-in-sheet)
@@ -25,7 +23,7 @@ This is an educational blog for students at James Martin High School to learn ab
 
 
 # Sign In Sheet
-To record your name on the sign in sheet, sign up on Github, learn how to use git and Github, then send me a pull request! I will monitor this account for the rest of 2025 and accept your pull requests for the README.md file. You can find the repository on Github at [https://github.com/mhs-stem-guests/presentations](https://github.com/mhs-stem-guests/presentations).
+To record your name on the sign in sheet, sign up on Github, learn how to use git and Github, then send me a pull request! I will monitor this account for the rest of 2026 and accept your pull requests for the README.md file. You can find the repository on Github at [https://github.com/mhs-stem-guests/presentations](https://github.com/mhs-stem-guests/presentations).
 
 ```
 Faculty Sponsors:
