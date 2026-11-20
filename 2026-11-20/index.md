@@ -18,9 +18,11 @@ This is an educational blog for students at James Martin High School to learn ab
   - [Importance of soft skills and teamwork](#importance-of-soft-skills-and-teamwork)
   - [IT career paths](#it-career-paths)
   - [How to Impress College Recruiters](#how-to-impress-college-recruiters)
-  [The Elephant in the Room: AI](#the-elephant-in-the-room-ai)
-  [Tips, Links, and Resources](#tips-links-and-resources)
-  [Rants and Fun Stories](#rants-and-fun-stories)
+- [The Elephant in the Room: AI](#the-elephant-in-the-room-ai)
+  - [Early Days](#early-days)
+  - [My Uneducated Advice on AI](#my-uneducated-advice-on-ai)
+- [Tips, Links, and Resources](#tips-links-and-resources)
+- [Rants and Fun Stories](#rants-and-fun-stories)
 
 # Sign In Sheet
 To record your name on the sign in sheet, sign up on Github, learn how to use git and Github, then send me a pull request! I will monitor this account for the rest of 2026 and accept your pull requests for the README.md file. You can find the repository on Github at [https://github.com/mhs-stem-guests/presentations](https://github.com/mhs-stem-guests/presentations).
@@ -90,6 +92,7 @@ To be added
     - A rare, difficult path.
     - The very best coders I have met have learned this way. This is also how you go from junior to mid-level to senior, after employment.
     - Without a network of old classmates to lean on from college, nor a job placement program, you will need to build your own network to open doors for you.
+    - Often, coders will come to this later in life with little to no formal education in software at all, and be just as effective in software roles some organizational problems are 
 
 ## Practice your fundamentals
 
@@ -179,6 +182,18 @@ To be added
   - Model Context Protocol?
   - AI security? (preferably white hat)
 
+## Early Days
+
+- We are still in the early era of machine learning and machine inference. More recently, this industry has advertised themselves as Artificial Intelligence.
+
+- The AI services you see today are similar to the early days of automobiles. We generally would not recognize an early automobile as a car. There is a vast amount of unmet demand for high quality knowledge work and it's not clear how much value this component of the software industry will bring.
+
+- The lesser known story of the Wright Brothers that they were only one of [several](https://en.wikipedia.org/wiki/Samuel_Langley) [competing](https://www.npr.org/2003/11/23/1516810/the-race-for-flight) [engineering](https://www.npr.org/2003/12/21/1545496/the-race-for-flight) teams attempting to invent flight.
+
+- In my opinion, there is still room for innovative AI harnesses to shine. Humans will always try to use social solutions to solve technical problems (or in STEM's case, technical solutions to solve social problems), and in this there is opportunity to write unique user experiences. When a company is able to solve this exactly right, they become the next million dollar company.
+
+## My Uneducated Advice on AI
+
 - In my previous talk 1 year ago, I clarified that AI research and AI work has many forms. Today, there are even more subjects to explore.
 
 - What you see advertised as "AI" in media these past few years is carefully manufactured marketing. If you understand mathematical concepts like vectors, vector space, and multilinear algebra, you have just enough math background to have a layman's understanding of what the industry refers to as AI models.
@@ -204,7 +219,7 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
   - Try creating a Linux Boot Medium and install Linux on an old laptop, and plug it into an ethernet cable on your home network router.
   - Old equipment costs a lot less on ebay, but the BIOS and documentation are sometimes hard to use on them (I use old Dell thin clients for my home lab and an old gaming computer). Learn how to setup network equipment like an unmanaged switch.
   - Buy a website domain and learn to fiddle with Linux to host video game server software for your friends.
-    - This one's a great way to learn because now you have legitimate users, and a million bots around the world probing your server for vulneratbilies to break in.
+    - This is how I learned to manage hardware, because I have both legitimate users and [bots from around the world probing for login vulnerabilities to break in](https://knock-knock.net/).
     - Pick a reasonable domain registrar like. Personally, I use Cloudflare.
   - Learning via a homelab isn't free. Plan to budget $200 in startup costs and $50 a month to add tools, upgrades, and new equipment. Keep an eye out for services that provide free tiers or lifetime licenses that you will actually use. Don't forget about your internet data usage and your power utility usage. Understanding your hardware, software, and service expenditures is a fundamental part of administering a server.
 
@@ -216,7 +231,7 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
 
 - [w3schools bash tutorial](https://www.w3schools.com/bash/bash_getstarted.php)
 
-- [roadmap.sh](https://roadmap.sh/): A complete list of everything about computing that you can learn. This includes the usual technical roles, but also roles like business analysts, video game developers, AI security analysts [red-teaming](https://en.wikipedia.org/wiki/Red_team), and more.
+- [roadmap.sh](https://roadmap.sh/): A complete list of everything about computing that you can learn. This includes the usual technical roles, but also roles like [business analysts](https://roadmap.sh/product-manager), [video game developers](https://roadmap.sh/game-developer), [red-team](https://en.wikipedia.org/wiki/Red_team) [security analysts](https://roadmap.sh/cyber-security), and more.
 
 - [Pragmatic Progammer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer): Great book. I suggest reading this right before graduating college. Worth having on your shelf to lend to mentees.
 
@@ -231,4 +246,4 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
   - [An accidental video game software bug was used as a model for scientific epidemeology research.](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
   - [The backup system for Toy Story 2 was discovered to be faulty after someone deleted the entire film.](https://thenextweb.com/news/how-pixars-toy-story-2-was-deleted-twice-once-by-technology-and-again-for-its-own-good)
   - [For a short time, the hit song Gangnam Style on Youtube had fewer than negative 2 billion views.](https://arstechnica.com/information-technology/2014/12/gangnam-style-overflows-int_max-forces-youtube-to-go-64-bit/) (This is not a typo.)
-  - [You can use digital signal processing techniques to make a cheap laptop speaker sound like an iPhone quality speaker.](https://news.ycombinator.com/item?id=49479924)
+  - You can use digital signal processing techniques to make a cheap built-in laptop speaker [sound like a $50 speaker.](https://news.ycombinator.com/item?id=43635295) Music is a common non-STEM background and entry-point for software development, so you'll find [many stories and posts like this.](https://news.ycombinator.com/item?id=49479924)
